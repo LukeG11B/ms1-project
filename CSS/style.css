@@ -20,23 +20,25 @@
 }
 
 #instagram-social {
-    
+
     margin-top: 46rem;
     margin-left: 13rem;
     z-index: 2;
     position: fixed;
 
 }
+
 #facebook-social {
-    
+
     display: inline;
     margin-top: 46rem;
     margin-left: 16rem;
     z-index: 2;
     position: fixed;
 }
+
 #social-header {
-    
+
     margin-top: 43rem;
     margin-left: 12.25rem;
     z-index: 2;
@@ -44,6 +46,19 @@
 }
 
 a {
-  color:inherit;
+    color: inherit;
+}
+
+/*-------------------- Homepage ---------------*/
+
+.home-image {
+    width: 60rem;
+    height: 10rem;
+    border: 1px solid black;
+    background-color: lightgrey;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 500px;
+
 }
 
