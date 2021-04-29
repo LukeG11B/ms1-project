@@ -58,7 +58,7 @@ Fontawesome used for the Social Media Icons (https://fontawesome.com/)
 # Credits
 Thanks to user Maggie Walsh Member ID #U01P702BHJQ for suggesting ideas for creating my side by side image gallery.
 Thanks to W3S Schools for the CSS Code I implemented into my product images to create a side by side image gallery [Link Here] (https://www.w3schools.com/howto/howto_css_images_side_by_side.asp)
-
+Thanks to the youtube channel Academind [Link here] (https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 # content
 
 # Media 
